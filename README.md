@@ -7,16 +7,14 @@
 👨‍💻 My goal is to become a **versatile engineer**, capable of designing efficient software solutions, adapting to various technological environments, and contributing to high-impact projects.  
 I’m driven by **curiosity**, a strong **sense of initiative**, and a passion for **quality work**—values that I apply to everything I do.
 
-📈 Alongside my academic journey, I spend time strengthening my **full-stack development** skills, exploring the foundations of **emerging technologies** such as **Artificial Intelligence**, and understanding the **challenges of cybersecurity**.
-
 ---
 
 ## 🔧 Tech Stack
 
-- **Langages :** HTML, CSS, JavaScript, PHP, SQL, Python, Java, C  
+- **Languages :** HTML, CSS, JavaScript, PHP, SQL, Python, Java, C  
 - **Frameworks :** React, Laravel, Django  
-- **Outils :** Git/GitHub, UML, MERISE  
-- **Réseaux informatiques** et **programmation orientée objet**
+- **Tools :** Git/GitHub, UML, MERISE  
+- **Computer Network** et **Oriented Object Programming**
 
 ---
 
