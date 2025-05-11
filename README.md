@@ -20,14 +20,6 @@ I’m driven by **curiosity**, a strong **sense of initiative**, and a passion f
 
 ---
 
-## 📌 Currently Learning
-
-- Full-stack development (React + Laravel/Django)
-- Artificial Intelligence & Data Science
-- Computer systems & software architecture
-
----
-
 ## 🧠 Academic Projects
 
 - 🎓 **Absence Management Application**  
