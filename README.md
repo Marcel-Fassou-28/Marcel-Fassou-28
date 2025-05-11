@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Marcel Fassou Haba
+---
 
 🎓 First-year **Computer Engineering** student at the **National School of Applied Sciences of El Jadida (ENSAJ)**.  
 💡 Passionate about **computer science**, **emerging technologies**, and **cybersecurity**, I fully commit to every project to grow both technically and personally.
