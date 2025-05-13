@@ -8,24 +8,6 @@ I’m driven by **curiosity**, a strong **sense of initiative**, and a passion f
 
 ---
 
-## 🔧 Tech Stack
-
-- **Languages :** HTML, CSS, JavaScript, PHP, SQL, Python, Java, C  
-- **Frameworks :** React, Laravel, Django  
-- **Tools :** Git/GitHub, UML, MERISE  
-- **Computer Network** et **Oriented Object Programming**
-
----
-
-## 🧠 Academic Projects
-
-- 🎓 **Absence Management Application**  
-  ➤  Development of a web application for managing student absences, intended for teachers and administrative staff.
- This included designing user interfaces with Figma and using technologies such as HTML, CSS, JavaScript, PHP,SQL, and UML.
-*Stack : HTML, CSS, JavaScript, PHP, SQL, UML*
-
----
-
 ## 📫 Contact Me
 📧  [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:marcelfassouhaba28@gmail.com) 
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcel-fassou-haba-416313319)
