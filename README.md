@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marcel Fassou Haba
 
-🎓 First-year **Computer Engineering** student at the **National School of Applied Sciences of El Jadida (ENSAJ)**.  
+🎓 Second-year **Computer Engineering** student at the **National School of Applied Sciences of El Jadida (ENSAJ)**.  
 💡 Passionate about **computer science**, **emerging technologies**, and **cybersecurity**, I fully commit to every project to grow both technically and personally.
 
 👨‍💻 My goal is to become a **versatile engineer**, capable of designing efficient software solutions, adapting to various technological environments, and contributing to high-impact projects.  
