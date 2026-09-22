@@ -86,15 +86,6 @@ This project pushed me through every layer of a real ML system in production: da
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marcel-Fassou-28&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marcel-Fassou-28&layout=compact&hide_border=true" />
-</p>
-
----
-
 ### 📫 Get in Touch
 
 📧 [Gmail](mailto:marcelfassouhaba28@gmail.com)
