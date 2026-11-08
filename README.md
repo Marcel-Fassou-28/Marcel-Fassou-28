@@ -88,7 +88,7 @@ This project pushed me through every layer of a real ML system in production: da
 
 ### 📫 Get in Touch
 
-📧 [Gmail](mailto:marcelfassouhaba28@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/marcel-fassou-haba-416313319)
+📧 [Gmail](mailto:contact@marcelhaba-labs.tech)
+🔗 [LinkedIn](https://www.linkedin.com/in/marcel-fassou-haba)
 
 <p align="center"><i>⭐ Always learning, building, and improving.</i></p>
